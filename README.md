@@ -1,8 +1,8 @@
 Hi, I'm Akash Narang, a B.E, Computer Engineer graduate from Vivekanand Education Society's Institute of Technology
 
-Here's my https://drive.google.com/file/d/1_cCbDC2DYUZHkCbvzQuIlkAAHBirIKWy/view?usp=share_link
+Here's my [Resume](https://drive.google.com/file/d/1_cCbDC2DYUZHkCbvzQuIlkAAHBirIKWy/view?usp=share_link)
 
-Here's my https://www.linkedin.com/in/akash-narang-8b2231165/ handle
+Here's my [LinkedIn](https://www.linkedin.com/in/akash-narang-8b2231165/) handle
 
 🔭 I have previous work experience of 2 years at Interactive Brokers, India as a Junior Software Engineer
 
