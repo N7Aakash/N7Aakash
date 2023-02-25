@@ -1,6 +1,6 @@
 Hi, I'm Akash Narang, a B.E, Computer Engineer graduate from Vivekanand Education Society's Institute of Technology
 
-Here's my [Resume](https://drive.google.com/file/d/1_cCbDC2DYUZHkCbvzQuIlkAAHBirIKWy/view?usp=share_link](https://drive.google.com/file/d/1cd9_FD-BnvqmXsM7Mj5fUpscoX1VMsmu/view?usp=sharing)
+Here's my [Resume][https://drive.google.com/file/d/1cd9_FD-BnvqmXsM7Mj5fUpscoX1VMsmu/view?usp=sharing]
 
 Here's my [LinkedIn](https://www.linkedin.com/in/akash-narang-8b2231165/)
 
